@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+env/
+venv/
+.venv/
+pip/
+pipenv/
+lib/
+libs/
+lib64/
+include/
+build/
+dist/
+egg-info/
+bin/
+eggs/
+parts/
+sdist/
+var/
+ansible/
+
+# Distribution / packaging
+.Python
+*.egg-info/
+*.egg
+*.egg-info
+dist/
+build/
+docs/build/
+
+# Project specific files
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*,cover
+.tox/
+.flake8
+*.swp
+.idea/
+.vscode/
+.DS_Store
+*.pyc
