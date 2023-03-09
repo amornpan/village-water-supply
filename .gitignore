@@ -49,3 +49,6 @@ coverage.xml
 .vscode/
 .DS_Store
 *.pyc
+
+# Note
+note.txt
